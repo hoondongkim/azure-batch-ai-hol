@@ -1,0 +1,18 @@
+{
+    "subscription_id": "1aa15964-43e9-4fab-9be5-81abdcb9c8d1",
+    "aad_client_id": "4aacf30d-ae0d-4837-9a91-4c9630af8f7a",
+    "aad_secret": "e98b97d7-fa66-4b9a-b43b-dfe13294f865",
+    "aad_tenant": "34a849d5-9a64-481c-bdea-835e3b5500cc",
+    "location": "eastus",
+    "base_url": "",
+    "resource_group": "holkrazure",
+    "storage_account" : {
+        "name": "aitrainigstorage",
+        "key": "/pPU4br2/Uq2YmgEI1Pucg9Bhjb4ccJptnHtUSW7mQGusFJ2xsm3yrIYgKySQ8Hki/m9CclfNWgxmRgQNlQt7g=="
+    },
+    "admin_user" : {
+        "name": "aiadmin",
+        "password": "holkrazure",
+        "ssh_public_key": "AAAAB3NzaC1yc2EAAAABJQAAAIEAqnoQyc0hETAScDc3C4CZWHSReksaR7lgjOjaOZe0b1nQSJN/ByCA7xaw2zkug6xRNKq7680hbZtGeNnMm1MeMF7s+agpNEA3SaF07PUd6rnvLu0SQ4LdfjE6kZnShOHTREDdy0VbXtmnpMrmHgUTUSW49BcvdDsol9CurDxEel0="
+    }
+}
